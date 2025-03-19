@@ -1,0 +1,19 @@
+body{
+    background-image:url('Project-imgs/Screenshot 2025-03-07 220756.jpg') ;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color:rgb(212, 50, 77);
+  background-size:1500px 800px ;
+}
+
+
+table{
+    background-color: aquamarine;
+ }
+ 
+ span{
+  color: darkmagenta;
+ }
